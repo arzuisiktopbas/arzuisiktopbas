@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**arzuisiktopbas/arzuisiktopbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 - 🔭 I’m a Data Analyst with a BA in Economics, passionate about AI and Human Behaviour.
 - 🌱 I’m currently learning 
