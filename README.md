@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-- 🔭 I am a Data Scientist with a Master's degree in Data Science and a Bachelor's degree in Economics. My passion lies at the intersection of Artificial Intelligence and Human Behavior.
+- 🔭  I'm a Data Science Master's student with a BA in Economics, deeply passionate about AI and Human Behavior.
 - 📫  Shoot me an email or add me on Linkedin
 
 ## 🌐 Socials:
